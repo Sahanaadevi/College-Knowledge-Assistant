@@ -1,0 +1,10 @@
+﻿venv311/
+__pycache__/
+*.pyc
+chroma_db/
+chroma_db_old/
+chroma_rag_db/
+chroma_server_test/
+test_db_check/
+test_persistent_db/
+.env
